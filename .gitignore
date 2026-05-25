@@ -1,0 +1,6 @@
+# Ignore the large dataset file
+Combined Data.csv
+
+# Ignore local notebook checkpoints and cache
+.ipynb_checkpoints/
+__pycache__/
